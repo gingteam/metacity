@@ -29,7 +29,7 @@
     </key>
 
     <key name="compositor" enum="org.gnome.metacity.MetaCompositorType">
-      <default>'xrender'</default>
+      <default>'xpresent'</default>
       <summary>Compositor</summary>
       <description>
         Compositor that Metacity will use for compositing. Possible values
