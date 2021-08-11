@@ -1,0 +1,1957 @@
+# translation of metacity.master.is.po to Icelandic
+# Copyright (C) 2009 Free Software Foundation
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Samúel Jón Gunnarsson <sammi@techattack.nu>, 2003.
+# Sveinn í Felli <sveinki@nett.is>, 2009, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: metacity.master.is\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=metacity&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-06-12 19:23+0000\n"
+"PO-Revision-Date: 2015-07-17 19:10+0000\n"
+"Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../src/50-metacity-navigation.xml.in.h:1
+msgid "Navigation"
+msgstr "Flakk"
+
+#: ../src/50-metacity-navigation.xml.in.h:2
+msgid "Move window to workspace 1"
+msgstr "Flytja glugga yfir á vinnusvæði 1"
+
+#: ../src/50-metacity-navigation.xml.in.h:3
+msgid "Move window to workspace 2"
+msgstr "Flytja glugga yfir á vinnusvæði 2"
+
+#: ../src/50-metacity-navigation.xml.in.h:4
+msgid "Move window to workspace 3"
+msgstr "Flytja glugga yfir á vinnusvæði 3"
+
+#: ../src/50-metacity-navigation.xml.in.h:5
+msgid "Move window to workspace 4"
+msgstr "Flytja glugga yfir á vinnusvæði 4"
+
+#: ../src/50-metacity-navigation.xml.in.h:6
+msgid "Move window one workspace to the left"
+msgstr "Flytja glugga til vinstri um eitt vinnusvæði"
+
+#: ../src/50-metacity-navigation.xml.in.h:7
+msgid "Move window one workspace to the right"
+msgstr "Flytja glugga til hægri um eitt vinnusvæði"
+
+#: ../src/50-metacity-navigation.xml.in.h:8
+msgid "Move window one workspace up"
+msgstr "Flytja glugga upp um eitt vinnusvæði"
+
+#: ../src/50-metacity-navigation.xml.in.h:9
+msgid "Move window one workspace down"
+msgstr "Flytja glugga niður um eitt vinnusvæði"
+
+#: ../src/50-metacity-navigation.xml.in.h:10
+msgid "Switch windows"
+msgstr "Skipta á milli glugga"
+
+#: ../src/50-metacity-navigation.xml.in.h:11
+msgid "Switch applications"
+msgstr "Skipta á milli forrita"
+
+#: ../src/50-metacity-navigation.xml.in.h:12
+#| msgid "Move between windows immediately"
+msgid "Switch windows of an application"
+msgstr ""
+
+#: ../src/50-metacity-navigation.xml.in.h:13
+msgid "Switch system controls"
+msgstr ""
+
+#: ../src/50-metacity-navigation.xml.in.h:14
+msgid "Switch windows directly"
+msgstr "Skipta beint á milli glugga"
+
+#: ../src/50-metacity-navigation.xml.in.h:15
+#| msgid "Move between windows immediately"
+msgid "Switch windows of an app directly"
+msgstr ""
+
+#: ../src/50-metacity-navigation.xml.in.h:16
+msgid "Switch system controls directly"
+msgstr ""
+
+#: ../src/50-metacity-navigation.xml.in.h:17
+#| msgid "Hide all windows and focus desktop"
+msgid "Hide all normal windows"
+msgstr "Fela alla venjulega glugga"
+
+#: ../src/50-metacity-navigation.xml.in.h:18
+msgid "Switch to workspace 1"
+msgstr "Skipta yfir á vinnusvæði 1"
+
+#: ../src/50-metacity-navigation.xml.in.h:19
+msgid "Switch to workspace 2"
+msgstr "Skipta yfir á vinnusvæði 2"
+
+#: ../src/50-metacity-navigation.xml.in.h:20
+msgid "Switch to workspace 3"
+msgstr "Skipta yfir á vinnusvæði 3"
+
+#: ../src/50-metacity-navigation.xml.in.h:21
+msgid "Switch to workspace 4"
+msgstr "Skipta yfir á vinnusvæði 4"
+
+#: ../src/50-metacity-navigation.xml.in.h:22
+msgid "Move to workspace left"
+msgstr "Flytja á vinnusvæðið til vinstri"
+
+#: ../src/50-metacity-navigation.xml.in.h:23
+msgid "Move to workspace right"
+msgstr "Flytja á vinnusvæðið til hægri"
+
+#: ../src/50-metacity-navigation.xml.in.h:24
+msgid "Move to workspace above"
+msgstr "Flytja á vinnusvæðið fyrir ofan"
+
+#: ../src/50-metacity-navigation.xml.in.h:25
+msgid "Move to workspace below"
+msgstr "Flytja á vinnusvæðið fyrir neðan"
+
+#: ../src/50-metacity-system.xml.in.h:1
+msgid "System"
+msgstr "Kerfið"
+
+#: ../src/50-metacity-system.xml.in.h:2
+#| msgid "Show the panel's main menu"
+msgid "Show the run command prompt"
+msgstr ""
+
+#: ../src/50-metacity-system.xml.in.h:3
+#| msgid "Show the panel's main menu"
+msgid "Show the applications menu"
+msgstr "Birta forritavalmyndina"
+
+#: ../src/50-metacity-windows.xml.in.h:1
+msgid "Windows"
+msgstr "Gluggar"
+
+#: ../src/50-metacity-windows.xml.in.h:2
+msgid "Activate the window menu"
+msgstr "Virkja gluggavalmynd"
+
+#: ../src/50-metacity-windows.xml.in.h:3
+msgid "Toggle fullscreen mode"
+msgstr "Víxla úr/í skjáfylliham"
+
+#: ../src/50-metacity-windows.xml.in.h:4
+msgid "Toggle maximization state"
+msgstr "Víxla fullvíkkunarstöðu"
+
+#: ../src/50-metacity-windows.xml.in.h:5
+msgid "Maximize window"
+msgstr "Hámarka glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:6
+msgid "Restore window"
+msgstr "Endurheimta glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:7
+msgid "Toggle shaded state"
+msgstr "Víxla skyggingarstöðu"
+
+#: ../src/50-metacity-windows.xml.in.h:8
+msgid "Close window"
+msgstr "Loka glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:9
+msgid "Minimize window"
+msgstr "Lágmarka glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:10
+msgid "Move window"
+msgstr "Flytja glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:11
+msgid "Resize window"
+msgstr "Breyta stærð á glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:12
+#| msgid "Move window one workspace to the left"
+msgid "Toggle window on all workspaces or one"
+msgstr ""
+
+#: ../src/50-metacity-windows.xml.in.h:13
+#| msgid "Raise window above other windows"
+msgid "Raise window if covered, otherwise lower it"
+msgstr ""
+
+#: ../src/50-metacity-windows.xml.in.h:14
+msgid "Raise window above other windows"
+msgstr "Hækka glugga upp fyrir aðra glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:15
+msgid "Lower window below other windows"
+msgstr "Lækka glugga niður fyrir aðra glugga"
+
+#: ../src/50-metacity-windows.xml.in.h:16
+msgid "Maximize window vertically"
+msgstr "Hámarka glugga lóðrétt"
+
+#: ../src/50-metacity-windows.xml.in.h:17
+msgid "Maximize window horizontally"
+msgstr "Hámarka glugga lárétt"
+
+#: ../src/50-metacity-windows.xml.in.h:18
+msgid "View split on left"
+msgstr ""
+
+#: ../src/50-metacity-windows.xml.in.h:19
+msgid "View split on right"
+msgstr ""
+
+#: ../src/core/bell.c:294
+msgid "Bell event"
+msgstr ""
+
+#: ../src/core/core.c:212
+#, c-format
+msgid "Unknown window information request: %d"
+msgstr "Óþekkt beiðni um upplýsingar glugga: %d"
+
+#. Translators: %s is a window title
+#: ../src/core/delete.c:94
+#, c-format
+msgid "<tt>%s</tt> is not responding."
+msgstr ""
+
+#: ../src/core/delete.c:99
+msgid ""
+"You may choose to wait a short while for it to continue or force the "
+"application to quit entirely."
+msgstr ""
+"Þú getur annað hvort hinkrað augnablik og leyft forritinu að halda áfram eða "
+"þú getur neytt forritið til að slökkva algjörlega á sér."
+
+#: ../src/core/delete.c:108
+msgid "_Wait"
+msgstr "_Bíða"
+
+#: ../src/core/delete.c:108
+msgid "_Force Quit"
+msgstr "_Þvinga til að hætta"
+
+#: ../src/core/delete.c:206
+#, c-format
+msgid "Failed to get hostname: %s\n"
+msgstr "Ekki tókst að ná í nafn vélar: %s\n"
+
+#: ../src/core/display.c:325
+#, c-format
+msgid "Failed to open X Window System display '%s'\n"
+msgstr "Mistókst að opna X-gluggakerfis skjá ‚%s‘\n"
+
+#: ../src/core/keybindings.c:692
+#, c-format
+msgid ""
+"Some other program is already using the key %s with modifiers %x as a "
+"binding\n"
+msgstr ""
+"Eitthvað annað forrit er þegar að nota lykilinn %s með ákvæðið %x sem "
+"bindingu\n"
+
+#: ../src/core/main.c:129
+#, c-format
+#| msgid ""
+#| "metacity %s\n"
+#| "Copyright (C) 2001-2002 Havoc Pennington, Red Hat, Inc., and others\n"
+#| "This is free software; see the source for copying conditions.\n"
+#| "There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A "
+#| "PARTICULAR PURPOSE.\n"
+msgid ""
+"metacity %s\n"
+"Copyright (C) 2001-%s Havoc Pennington, Red Hat, Inc., and others\n"
+"This is free software; see the source for copying conditions.\n"
+"There is NO warranty; not even for MERCHANTABILITY or FITNESS FOR A "
+"PARTICULAR PURPOSE.\n"
+msgstr ""
+
+#: ../src/core/main.c:257
+msgid "Disable connection to session manager"
+msgstr "Stöðva tengingu við setustjóra"
+
+#: ../src/core/main.c:263
+msgid "Replace the running window manager with Metacity"
+msgstr "Skipta skjástjóranum sem er í notkun út fyrir Metacity"
+
+#: ../src/core/main.c:269
+msgid "Specify session management ID"
+msgstr "Tilgreindu auðkenni setustjórnunar"
+
+#: ../src/core/main.c:274
+msgid "X Display to use"
+msgstr "X skjáhermir sem nota á"
+
+#: ../src/core/main.c:280
+msgid "Initialize session from savefile"
+msgstr "Frumstilla setu frá vistaðri skrá"
+
+#: ../src/core/main.c:286
+msgid "Print version"
+msgstr "Prenta útgáfunúmer"
+
+#: ../src/core/main.c:292
+msgid "Make X calls synchronous"
+msgstr "Gera X köllin samhæfð"
+
+#: ../src/core/main.c:298
+msgid "Turn compositing on"
+msgstr "Kveikja á skjásamsetningu"
+
+#: ../src/core/main.c:304
+msgid "Turn compositing off"
+msgstr "Slökkva á skjásamsetningu"
+
+#: ../src/core/main.c:310
+msgid ""
+"Don't make fullscreen windows that are maximized and have no decorations"
+msgstr ""
+
+#: ../src/core/main.c:510
+#, c-format
+msgid "Failed to scan themes directory: %s\n"
+msgstr "Mistókst að skanna þemamöppu: %s\n"
+
+#: ../src/core/main.c:526
+#, c-format
+#| msgid ""
+#| "Could not find a theme! Be sure %s exists and contains the usual themes."
+msgid ""
+"Could not find a theme! Be sure %s exists and contains the usual themes.\n"
+msgstr ""
+"Gat ekki fundið þema! Vertu viss um að %s sé til og að það innihaldi "
+"hefðbundin þemu.\n"
+
+#: ../src/core/main.c:585
+#, c-format
+msgid "Failed to restart: %s\n"
+msgstr "Ekki tókst að endurræsa: %s\n"
+
+#: ../src/core/prefs.c:955
+msgid ""
+"Workarounds for broken applications disabled. Some applications may not "
+"behave properly.\n"
+msgstr ""
+"Sniðgöngur fyrir vafasöm forrit er ekki virk. Sum forrit munu ef til vill "
+"haga sér undarlega.\n"
+
+#: ../src/core/prefs.c:1026
+#, c-format
+msgid "Could not parse font description \"%s\" from GSettings key %s\n"
+msgstr ""
+
+#: ../src/core/prefs.c:1093
+#, c-format
+msgid ""
+"\"%s\" found in configuration database is not a valid value for mouse button "
+"modifier\n"
+msgstr ""
+"„%s‟ sem fannst í uppsetningargagnagrunni er ekki tækt gildi sem "
+"músahnappsbreyta\n"
+
+#: ../src/core/prefs.c:1578
+#, c-format
+msgid ""
+"\"%s\" found in configuration database is not a valid value for keybinding "
+"\"%s\"\n"
+msgstr ""
+"„%s‟  sem fannst í uppsetningagagnagrunninum er ekki tækt gildi fyrir "
+"lyklasamsetninguna „%s‟\n"
+
+#: ../src/core/prefs.c:1680
+#, c-format
+msgid "Workspace %d"
+msgstr "Vinnusvæði %d"
+
+#: ../src/core/prefs.c:1937
+#, c-format
+msgid "Missing %s extension required for compositing\n"
+msgstr ""
+
+#: ../src/core/screen.c:364
+#, c-format
+msgid "Screen %d on display '%s' is invalid\n"
+msgstr "Skjár %d á birti ‚%s‛ er ógildur\n"
+
+#: ../src/core/screen.c:380
+#, c-format
+msgid ""
+"Screen %d on display \"%s\" already has a window manager; try using the --"
+"replace option to replace the current window manager.\n"
+msgstr ""
+"Skjár %d á birti „%s‟ hefur nú þegar skjástjóra; reyndu að nota --replace "
+"valkostinn til þess að skipta út núverandi skjástjóra.\n"
+
+#: ../src/core/screen.c:407
+#, c-format
+msgid ""
+"Could not acquire window manager selection on screen %d display \"%s\"\n"
+msgstr "Gat ekki aflað skjástjóravals á skjá %d á birti „%s‟\n"
+
+#: ../src/core/screen.c:465
+#, c-format
+msgid "Screen %d on display \"%s\" already has a window manager\n"
+msgstr "Skjár %d á birti „%s‟ hefur nú þegar skjástjóra\n"
+
+#: ../src/core/screen.c:678
+#, c-format
+msgid "Could not release screen %d on display \"%s\"\n"
+msgstr "Gat ekki sleppt skjá %d á birti „%s‟\n"
+
+#: ../src/core/session.c:840 ../src/core/session.c:847
+#, c-format
+msgid "Could not create directory '%s': %s\n"
+msgstr "Ekki tókst að búa til möppu '%s': %s\n"
+
+#: ../src/core/session.c:857
+#, c-format
+msgid "Could not open session file '%s' for writing: %s\n"
+msgstr "Gat ekki opnað setuskrá ‚%s‛ til ritunar: %s\n"
+
+#: ../src/core/session.c:998
+#, c-format
+msgid "Error writing session file '%s': %s\n"
+msgstr "Villa við ritun setuskráar ‚%s‛: %s\n"
+
+#: ../src/core/session.c:1003
+#, c-format
+msgid "Error closing session file '%s': %s\n"
+msgstr "Villa við lokun setuskráar ‚%s‛; %s\n"
+
+#: ../src/core/session.c:1133
+#, c-format
+msgid "Failed to parse saved session file: %s\n"
+msgstr "Mistókst að þátta vistaða setuskrá: %s\n"
+
+#: ../src/core/session.c:1182
+#, c-format
+msgid "<metacity_session> attribute seen but we already have the session ID"
+msgstr "<metacity_session> eigind séð en setueigind er þegar þekkt"
+
+#: ../src/core/session.c:1195 ../src/core/session.c:1270
+#: ../src/core/session.c:1302 ../src/core/session.c:1374
+#: ../src/core/session.c:1434
+#, c-format
+msgid "Unknown attribute %s on <%s> element"
+msgstr "Óþekkt eigind %s í hlutinum <%s>"
+
+#: ../src/core/session.c:1212
+#, c-format
+msgid "nested <window> tag"
+msgstr "hreiðraður <window> tag"
+
+#: ../src/core/session.c:1454
+#, c-format
+msgid "Unknown element %s"
+msgstr "Óþekkt stak %s"
+
+#: ../src/core/session.c:1806
+msgid ""
+"These windows do not support &quot;save current setup&quot; and will have to "
+"be restarted manually next time you log in."
+msgstr ""
+
+#: ../src/core/util.c:99
+#, c-format
+msgid "Failed to open debug log: %s\n"
+msgstr "Ekki tókst að opna aflúsunarskrá: %s\n"
+
+#: ../src/core/util.c:109
+#, c-format
+msgid "Failed to fdopen() log file %s: %s\n"
+msgstr "Ekki tókst að fdopen() log skrá %s: %s\n"
+
+#: ../src/core/util.c:115
+#, c-format
+msgid "Opened log file %s\n"
+msgstr "Opnaði log skrá %s\n"
+
+#: ../src/core/util.c:134 ../src/tools/metacity-message.c:206
+#, c-format
+msgid "Metacity was compiled without support for verbose mode\n"
+msgstr "Metacity var vistþýtt án stuðnings við aukin villuleitarham\n"
+
+#: ../src/core/util.c:234
+msgid "Window manager: "
+msgstr "Gluggastjóri:"
+
+#: ../src/core/util.c:386
+msgid "Bug in window manager: "
+msgstr "Galli í gluggastjóra:"
+
+#: ../src/core/util.c:419
+msgid "Window manager warning: "
+msgstr "Viðvörun gluggastjóra:"
+
+#: ../src/core/util.c:447
+msgid "Window manager error: "
+msgstr "Villa gluggastjóra:"
+
+#. Translators: This is the title used on dialog boxes
+#: ../src/core/util.c:567 ../src/metacity.desktop.in.h:1
+#: ../src/metacity-wm.desktop.in.h:1
+msgid "Metacity"
+msgstr "Metacity"
+
+#. first time through
+#: ../src/core/window.c:5900
+#, c-format
+msgid ""
+"Window %s sets SM_CLIENT_ID on itself, instead of on the WM_CLIENT_LEADER "
+"window as specified in the ICCCM.\n"
+msgstr ""
+"Gluggi %s setti SM_CLIENT_ID á sjálfan sig í stað að setja það á "
+"WM_CLIENT_LEADER gluggan eins og tilgreint er í ICCM.\n"
+
+#. We ignore mwm_has_resize_func because WM_NORMAL_HINTS is the
+#. * authoritative source for that info. Some apps such as mplayer or
+#. * xine disable resize via MWM but not WM_NORMAL_HINTS, but that
+#. * leads to e.g. us not fullscreening their windows.  Apps that set
+#. * MWM but not WM_NORMAL_HINTS are basically broken. We complain
+#. * about these apps but make them work.
+#.
+#: ../src/core/window.c:6383
+#, c-format
+msgid ""
+"Window %s sets an MWM hint indicating it isn't resizable, but sets min size "
+"%d x %d and max size %d x %d; this doesn't make much sense.\n"
+msgstr ""
+"Gluggi %s setur MWM ábendingu sem segir að ekki sé hægt að breyta stærð hans "
+"en setur minstu stærð %d x %d og mestu stærð %d x %d; það er ekki mikið vit "
+"í þessu.\n"
+
+#: ../src/core/window-props.c:402
+#, c-format
+msgid "Application set a bogus _NET_WM_PID %lu\n"
+msgstr "Forrit settu ógilt _NET_WM_PID %lu\n"
+
+#. Translators: the title of a window from another machine
+#: ../src/core/window-props.c:553
+#, c-format
+msgid "%s (on %s)"
+msgstr "%s (á %s)"
+
+#. Simple case-- don't bother to look it up.  It's root.
+#: ../src/core/window-props.c:585
+#, c-format
+msgid "%s (as superuser)"
+msgstr "%s (sem kerfisstjóri)"
+
+#. Translators: the title of a window owned by another user
+#. * on this machine
+#: ../src/core/window-props.c:603
+#, c-format
+msgid "%s (as %s)"
+msgstr "%s (sem %s)"
+
+#. Translators: the title of a window owned by another user
+#. * on this machine, whose name we don't know
+#: ../src/core/window-props.c:609
+#, c-format
+msgid "%s (as another user)"
+msgstr "%s (sem annar notandi)"
+
+#: ../src/core/window-props.c:1589
+#, c-format
+msgid "Invalid WM_TRANSIENT_FOR window 0x%lx specified for %s.\n"
+msgstr "Ógildur WM_TRANSIENT_FOR gluggi 0x%lx hannaður fyrir %s.\n"
+
+#: ../src/core/xprops.c:153
+#, c-format
+msgid ""
+"Window 0x%lx has property %s\n"
+"that was expected to have type %s format %d\n"
+"and actually has type %s format %d n_items %d.\n"
+"This is most likely an application bug, not a window manager bug.\n"
+"The window has title=\"%s\" class=\"%s\" name=\"%s\"\n"
+msgstr ""
+"Gluggi 0x%lx hefur eiginleika %s\n"
+"sem búist var við að hefði gerð %s snið %d\n"
+"en hefur raunar gerð %s snið %d n_atriði %d.\n"
+"Þetta er mjög sennilega villa í forriti en ekki gluggastjóravilla.\n"
+"Glugginn er með titilinn=„%s‟ klasa= „%s‟ nafn=„%s‟\n"
+
+#: ../src/core/xprops.c:409
+#, c-format
+msgid "Property %s on window 0x%lx contained invalid UTF-8\n"
+msgstr "Eiginleiki %s á glugga 0x%lx innihélt ógilt UTF-8\n"
+
+#: ../src/core/xprops.c:492
+#, c-format
+msgid ""
+"Property %s on window 0x%lx contained invalid UTF-8 for item %d in the list\n"
+msgstr ""
+"Eiginleiki %s á glugga 0x%lx innihélt ógilt UTF-8 fyrir atriði %d í "
+"listanum\n"
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:1
+msgid "Compositing Manager"
+msgstr "Stjórnun skjásamsetningar"
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:2
+msgid "Determines whether Metacity is a compositing manager."
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:3
+msgid "If true, trade off usability for less resource usage"
+msgstr "Ef valið, fórna notagildi fyrir minni notkun tilfanga"
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:4
+msgid ""
+"If true, Metacity will give the user less feedback by using wireframes, "
+"avoiding animations, or other means. This is a significant reduction in "
+"usability for many users, but may allow legacy applications to continue "
+"working, and may also be a useful tradeoff for terminal servers. However, "
+"the wireframe feature is disabled when accessibility is on."
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:5
+msgid "Enable edge tiling when dropping windows on screen edges"
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:6
+msgid ""
+"If enabled, dropping windows on vertical screen edges maximizes them "
+"vertically and resizes them horizontally to cover half of the available "
+"area. Dropping windows on the top screen edge maximizes them completely."
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:7
+#| msgid "Window Management"
+msgid "Window placement behavior"
+msgstr "Hegðun staðsetningar glugga"
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:8
+msgid ""
+"Metacity's default window-placement behavior is smart (first-fit), similar "
+"to behaviors in some other window managers. It will try to tile windows so "
+"that they do not overlap. Set this option to \"smart\" for this behavior. "
+"This option can be set to \"center\" to place new windows in the centers of "
+"their workspaces, \"origin\" for the upper-left corners of the workspaces, "
+"or \"random\" to place new windows at random locations within their "
+"workspaces."
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:9
+msgid "Show window content thumbnail in Alt-Tab"
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:10
+msgid ""
+"If set to true, Metacity will show window content thumbnails in the Alt-Tab "
+"window instead of only icons."
+msgstr ""
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:11
+msgid "Current theme"
+msgstr "Núverandi þema"
+
+#: ../src/org.gnome.metacity.gschema.xml.in.h:12
+msgid ""
+"The theme determines the appearance of window borders, titlebar, and so "
+"forth."
+msgstr ""
+
+#: ../src/tools/metacity-message.c:176
+#, c-format
+msgid "Usage: %s\n"
+msgstr "Notkun: %s\n"
+
+#: ../src/ui/frames.c:1307
+msgid "Close Window"
+msgstr "Loka glugga"
+
+#: ../src/ui/frames.c:1310
+msgid "Window Menu"
+msgstr "Gluggavalmynd"
+
+#: ../src/ui/frames.c:1313
+#| msgid "Window Menu"
+msgid "Window App Menu"
+msgstr ""
+
+#: ../src/ui/frames.c:1316
+msgid "Minimize Window"
+msgstr "Lágmarka glugga"
+
+#: ../src/ui/frames.c:1319
+msgid "Maximize Window"
+msgstr "Hámarka glugga"
+
+#: ../src/ui/frames.c:1322
+msgid "Restore Window"
+msgstr "Endurheimta glugga"
+
+#: ../src/ui/frames.c:1325
+#| msgid "Roll _Up"
+msgid "Roll Up Window"
+msgstr "Rúlla glugganum upp"
+
+#: ../src/ui/frames.c:1328
+#| msgid "Close Window"
+msgid "Unroll Window"
+msgstr "Rúlla glugganum niður"
+
+#: ../src/ui/frames.c:1331
+msgid "Keep Window On Top"
+msgstr "Halda glugga efst"
+
+#: ../src/ui/frames.c:1334
+msgid "Remove Window From Top"
+msgstr ""
+
+#: ../src/ui/frames.c:1337
+msgid "Always On Visible Workspace"
+msgstr "Sjáanlegt á öllum vinnusvæðum"
+
+#: ../src/ui/frames.c:1340
+#| msgid "Move window one workspace up"
+msgid "Put Window On Only One Workspace"
+msgstr "Setja glugga bara á eitt vinnusvæði"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:65
+msgid "Mi_nimize"
+msgstr "Lág_marka"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:67
+msgid "Ma_ximize"
+msgstr "_Hámarka"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:69
+msgid "Unma_ximize"
+msgstr "Minn_ka glugga"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:71
+msgid "Roll _Up"
+msgstr "Rúlla _upp"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:73
+msgid "_Unroll"
+msgstr "_Rúlla niður"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:75
+msgid "_Move"
+msgstr "_Flytja"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:77
+msgid "_Resize"
+msgstr "_Endurstækka"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:79
+msgid "Move Titlebar On_screen"
+msgstr "Flytja titil_slá á skjáinn"
+
+#. separator
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:82 ../src/ui/menu.c:84
+msgid "Always on _Top"
+msgstr "Alltaf _efst"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:86
+msgid "_Always on Visible Workspace"
+msgstr "Sjáanlegt á _öllum vinnusvæðum"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:88
+msgid "_Only on This Workspace"
+msgstr "_Aðeins á þessu vinnusvæði"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:90
+msgid "Move to Workspace _Left"
+msgstr "Flytja á vinnusvæðið til _vinstri"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:92
+msgid "Move to Workspace R_ight"
+msgstr "Flytja á vinnusvæðið til _hægri"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:94
+msgid "Move to Workspace _Up"
+msgstr "Flytja á vinnusvæðið fyrir _ofan"
+
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:96
+msgid "Move to Workspace _Down"
+msgstr "Flytja á vinnusvæðið fyrir _neðan"
+
+#. separator
+#. Translators: Translate this string the same way as you do in libwnck!
+#: ../src/ui/menu.c:100
+msgid "_Close"
+msgstr "_Loka"
+
+#: ../src/ui/menu.c:200
+#, c-format
+#| msgid "Workspace %d"
+msgid "Workspace %d%n"
+msgstr "Vinnusvæði %d%n"
+
+#: ../src/ui/menu.c:210
+#, c-format
+msgid "Workspace 1_0"
+msgstr "Vinnusvæði 1_0"
+
+#: ../src/ui/menu.c:212
+#, c-format
+msgid "Workspace %s%d"
+msgstr "Vinnusvæði %s%d"
+
+#: ../src/ui/menu.c:382
+msgid "Move to Another _Workspace"
+msgstr "Flytja á _annað vinnusvæði"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the shift key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:75
+msgid "Shift"
+msgstr "Shift"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the control key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:81
+msgid "Ctrl"
+msgstr "Ctrl"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the alt key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:87
+msgid "Alt"
+msgstr "Alt"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the meta key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:93
+msgid "Meta"
+msgstr "Meta"
+
+#  This is the text that should appear next to menu accelerators
+#  * that use the super key. If the text on this key isn't typically
+#  * translated on keyboards used for your language, don't translate
+#  * this.
+#. This is the text that should appear next to menu accelerators
+#. * that use the super key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:99
+msgid "Super"
+msgstr "Super (WIN)"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the hyper key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:105
+msgid "Hyper"
+msgstr "Hyper"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the mod2 key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:111
+msgid "Mod2"
+msgstr "Mod2"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the mod3 key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:117
+msgid "Mod3"
+msgstr "Mod3"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the mod4 key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:123
+msgid "Mod4"
+msgstr "Mod4"
+
+#. This is the text that should appear next to menu accelerators
+#. * that use the mod5 key. If the text on this key isn't typically
+#. * translated on keyboards used for your language, don't translate
+#. * this.
+#.
+#: ../src/ui/metaaccellabel.c:129
+msgid "Mod5"
+msgstr "Mod5"
+
+#. Translators: This represents the size of a window.  The first number is
+#. * the width of the window and the second is the height.
+#.
+#: ../src/ui/resizepopup.c:139
+#, c-format
+msgid "%d x %d"
+msgstr "%d x %d"
+
+#: ../src/ui/theme.c:265
+msgid "top"
+msgstr "efst"
+
+#: ../src/ui/theme.c:267
+msgid "bottom"
+msgstr "neðst"
+
+#: ../src/ui/theme.c:269
+msgid "left"
+msgstr "vinstri"
+
+#: ../src/ui/theme.c:271
+msgid "right"
+msgstr "hægri"
+
+#: ../src/ui/theme.c:298
+#, c-format
+msgid "frame geometry does not specify \"%s\" dimension"
+msgstr "rammarúmfærði skilgreinir ekki „%s‟ vídd"
+
+#: ../src/ui/theme.c:317
+#, c-format
+msgid "frame geometry does not specify dimension \"%s\" for border \"%s\""
+msgstr "rammarúmfærði skilgreinir ekki vídd „%s‟ fyrir ramma „%s‟"
+
+#: ../src/ui/theme.c:354
+#, c-format
+msgid "Button aspect ratio %g is not reasonable"
+msgstr "Hnappasniðhlutfall %g er ekki nothæf"
+
+#: ../src/ui/theme.c:366
+#, c-format
+msgid "Frame geometry does not specify size of buttons"
+msgstr "Rammarúmfræði skilgreinir ekki stærð hnappa"
+
+#: ../src/ui/theme.c:1264
+#, c-format
+msgid "Gradients should have at least two colors"
+msgstr "Stigull ætti að hafa í það minnsta tvo liti"
+
+#: ../src/ui/theme.c:1402
+#, c-format
+msgid ""
+"GTK custom color specification must have color name and fallback in "
+"parentheses, e.g. gtk:custom(foo,bar); could not parse \"%s\""
+msgstr ""
+
+#: ../src/ui/theme.c:1418
+#, c-format
+msgid ""
+"Invalid character '%c' in color_name parameter of gtk:custom, only A-Za-z0-9-"
+"_ are valid"
+msgstr ""
+
+#: ../src/ui/theme.c:1432
+#, c-format
+msgid ""
+"Gtk:custom format is \"gtk:custom(color_name,fallback)\", \"%s\" does not "
+"fit the format"
+msgstr ""
+
+#: ../src/ui/theme.c:1476
+#, c-format
+msgid ""
+"GTK color specification must have the state in brackets, e.g. gtk:fg[NORMAL] "
+"where NORMAL is the state; could not parse \"%s\""
+msgstr ""
+"GTK litaskilgreinigar verða að hafa stöðuna í hornklofa, t.d. gtk:fg[NORMAL] "
+"þar sem NORMAL er staðan; gat ekki þáttað „%s‟"
+
+#: ../src/ui/theme.c:1490
+#, c-format
+msgid ""
+"GTK color specification must have a close bracket after the state, e.g. gtk:"
+"fg[NORMAL] where NORMAL is the state; could not parse \"%s\""
+msgstr ""
+"Í GTK litaskilgreinigum  verður að loka hornklofa eftir stöðuna, t.d. "
+"gtk:fg[NORMAL] þar sem NORMAL er staðan; gat ekki þáttað „%s‟"
+
+#: ../src/ui/theme.c:1501
+#, c-format
+msgid "Did not understand state \"%s\" in color specification"
+msgstr "Skildi ekki stöðuna „%s‟ í litaskilgreiningum"
+
+#: ../src/ui/theme.c:1514
+#, c-format
+msgid "Did not understand color component \"%s\" in color specification"
+msgstr "Skildi ekki litaíhlutinn „%s‟ í litaskilgreiningum"
+
+#: ../src/ui/theme.c:1542
+#, c-format
+msgid ""
+"Blend format is \"blend/bg_color/fg_color/alpha\", \"%s\" does not fit the "
+"format"
+msgstr ""
+"Snið blöndunar er „blend/bg_color/fg_color/alpha‟, „%s‟ passar ekki við "
+"sniðið"
+
+#: ../src/ui/theme.c:1553
+#, c-format
+msgid "Could not parse alpha value \"%s\" in blended color"
+msgstr "Gat ekki þáttað alfagildið „%s‟ í blönduðum lit"
+
+#: ../src/ui/theme.c:1563
+#, c-format
+msgid "Alpha value \"%s\" in blended color is not between 0.0 and 1.0"
+msgstr "Alfagildið „%s‟ í blönduðum lit er ekki á milli 0.0 og 1.0"
+
+#: ../src/ui/theme.c:1609
+#, c-format
+msgid ""
+"Shade format is \"shade/base_color/factor\", \"%s\" does not fit the format"
+msgstr ""
+"Snið skygginar er „shade/base_color/factor‟, „%s‟ passar ekki við sniðið"
+
+#: ../src/ui/theme.c:1620
+#, c-format
+msgid "Could not parse shade factor \"%s\" in shaded color"
+msgstr "Gat ekki þáttað skyggingarstuðulinn „%s‟ í skyggðum lit"
+
+#: ../src/ui/theme.c:1630
+#, c-format
+msgid "Shade factor \"%s\" in shaded color is negative"
+msgstr "Skyggingarstuðull „%s‟ í skyggðum lit er neikvæður"
+
+#: ../src/ui/theme.c:1659
+#, c-format
+msgid "Could not parse color \"%s\""
+msgstr "Ekki tókst að greina lit \"%s\""
+
+#: ../src/ui/theme.c:2003
+#, c-format
+msgid "Coordinate expression contains character '%s' which is not allowed"
+msgstr "Hnitasegð inniheldur táknið ‚%s‛ sem er ekki leyft"
+
+#: ../src/ui/theme.c:2030
+#, c-format
+msgid ""
+"Coordinate expression contains floating point number '%s' which could not be "
+"parsed"
+msgstr "Hnitasegð inniheldur hlaupakommutöluna ‚%s‛ sem ekki var hægt að þátta"
+
+#: ../src/ui/theme.c:2044
+#, c-format
+msgid "Coordinate expression contains integer '%s' which could not be parsed"
+msgstr "Hnitasegð inniheldur heiltölunatöluna ‚%s‛ sem ekki var hægt að þátta"
+
+#: ../src/ui/theme.c:2166
+#, c-format
+msgid ""
+"Coordinate expression contained unknown operator at the start of this text: "
+"\"%s\""
+msgstr "Hnitasegð innihélt óþekktan virkja í byrjun þessa texta: „%s‟"
+
+#: ../src/ui/theme.c:2223
+#, c-format
+msgid "Coordinate expression was empty or not understood"
+msgstr "Hnitasegð var tóm eða ekki skilin"
+
+#: ../src/ui/theme.c:2334 ../src/ui/theme.c:2344 ../src/ui/theme.c:2378
+#, c-format
+msgid "Coordinate expression results in division by zero"
+msgstr "Hnitasegð leiddi til þess að deilt var með núlli"
+
+#: ../src/ui/theme.c:2386
+#, c-format
+msgid ""
+"Coordinate expression tries to use mod operator on a floating-point number"
+msgstr "Hnitasegð reynir að nota mátunarvirkja á hlaupakommutölu"
+
+#: ../src/ui/theme.c:2442
+#, c-format
+msgid ""
+"Coordinate expression has an operator \"%s\" where an operand was expected"
+msgstr "Hnitasegð er með virkja „%s‟ þar sem búist var við þolanda"
+
+#: ../src/ui/theme.c:2451
+#, c-format
+msgid "Coordinate expression had an operand where an operator was expected"
+msgstr "Hnitasegð var með virkja þar sem búist var við þolanda"
+
+#: ../src/ui/theme.c:2459
+#, c-format
+msgid "Coordinate expression ended with an operator instead of an operand"
+msgstr "Hnitasegð lauk með virkja í stað þolanda"
+
+#: ../src/ui/theme.c:2469
+#, c-format
+msgid ""
+"Coordinate expression has operator \"%c\" following operator \"%c\" with no "
+"operand in between"
+msgstr ""
+"Hnitasegð er með virkja „%c‟ á eftir virkja „%c‟  án þess að það sé þolandi "
+"á milli"
+
+#: ../src/ui/theme.c:2620 ../src/ui/theme.c:2665
+#, c-format
+msgid "Coordinate expression had unknown variable or constant \"%s\""
+msgstr "Hnitasegð var með óþekkta breytu eða fasta „%s‟"
+
+#: ../src/ui/theme.c:2719
+#, c-format
+msgid "Coordinate expression parser overflowed its buffer."
+msgstr ""
+
+#: ../src/ui/theme.c:2748
+#, c-format
+msgid "Coordinate expression had a close parenthesis with no open parenthesis"
+msgstr "Hnitasegð var með lokasviga án þess að vera með opnunarsviga"
+
+#: ../src/ui/theme.c:2812
+#, c-format
+msgid "Coordinate expression had an open parenthesis with no close parenthesis"
+msgstr "Hnitasegð var með opnunarsviga án þess að vera með lokasviga"
+
+#: ../src/ui/theme.c:2823
+#, c-format
+msgid "Coordinate expression doesn't seem to have any operators or operands"
+msgstr "Hnitasegð virðist hvorki hafa virkja né þolendur"
+
+#: ../src/ui/theme.c:3027 ../src/ui/theme.c:3047 ../src/ui/theme.c:3067
+#, c-format
+msgid "Theme contained an expression that resulted in an error: %s\n"
+msgstr "Þemað innihélt segð sem olli villu: %s\n"
+
+#: ../src/ui/theme.c:4705
+#, c-format
+msgid ""
+"<button function=\"%s\" state=\"%s\" draw_ops=\"whatever\"/> must be "
+"specified for this frame style"
+msgstr ""
+"<button function=\"%s\" state=\"%s\" draw_ops=\"hvaðsemer\"/> verður að vera "
+"skilgreint fyrir þennan rammastíl"
+
+#: ../src/ui/theme.c:5404 ../src/ui/theme.c:5429
+#, c-format
+msgid ""
+"Missing <frame state=\"%s\" resize=\"%s\" focus=\"%s\" style=\"whatever\"/>"
+msgstr "Vantar <frame state=\"%s\" resize=\"%s\" focus=\"%s\" style=\"hvaðsemer\"/>"
+
+#: ../src/ui/theme.c:5473
+#, c-format
+msgid "Failed to load theme \"%s\": %s\n"
+msgstr "Ekki tókst að hlaða inn þema \"%s\": %s\n"
+
+#: ../src/ui/theme.c:5703 ../src/ui/theme.c:5710 ../src/ui/theme.c:5717
+#: ../src/ui/theme.c:5724 ../src/ui/theme.c:5731
+#, c-format
+msgid "No <%s> set for theme \"%s\""
+msgstr "Ekkert <%s> var sett fyrir þema „%s‟"
+
+#: ../src/ui/theme.c:5739
+#, c-format
+msgid ""
+"No frame style set for window type \"%s\" in theme \"%s\", add a <window "
+"type=\"%s\" style_set=\"whatever\"/> element"
+msgstr ""
+"Enginn rammastíll var settur fyrir gluggagerð „%s‟ í þema „%s‟, bættu við "
+"<window type=\"%s\" style_set=\"hvað sem er\"/> staki"
+
+#: ../src/ui/theme.c:6339 ../src/ui/theme.c:6401 ../src/ui/theme.c:6464
+#, c-format
+msgid ""
+"User-defined constants must begin with a capital letter; \"%s\" does not"
+msgstr ""
+"Notandaskilgreindir fastar verða að byrja á stórum staf; „%s‟ gerir það ekki"
+
+#: ../src/ui/theme.c:6347 ../src/ui/theme.c:6409 ../src/ui/theme.c:6472
+#, c-format
+msgid "Constant \"%s\" has already been defined"
+msgstr "Fastinn „%s‟ er þegar skilgreindur"
+
+#. Translators: This means that an attribute which should have been found
+#. * on an XML element was not in fact found.
+#.
+#: ../src/ui/theme-parser.c:234
+#, c-format
+msgid "No \"%s\" attribute on element <%s>"
+msgstr "Engin „%s“ eiginleiki í nóðunni <%s>"
+
+#: ../src/ui/theme-parser.c:263 ../src/ui/theme-parser.c:281
+#, c-format
+msgid "Line %d character %d: %s"
+msgstr "Lína %d tákn %d: %s"
+
+#: ../src/ui/theme-parser.c:481
+#, c-format
+msgid "Attribute \"%s\" repeated twice on the same <%s> element"
+msgstr "Eigindin „%s‟ endurtekin tvisvar á sama <%s> stakinu"
+
+#: ../src/ui/theme-parser.c:505 ../src/ui/theme-parser.c:554
+#, c-format
+msgid "Attribute \"%s\" is invalid on <%s> element in this context"
+msgstr "Eigindin „%s‟ er ógild á <%s> stakinu í þessu samhengi"
+
+#: ../src/ui/theme-parser.c:596
+#, c-format
+msgid "Could not parse \"%s\" as an integer"
+msgstr "Ekki tókst að greina \"%s\" sem heiltölu"
+
+#: ../src/ui/theme-parser.c:605 ../src/ui/theme-parser.c:660
+#, c-format
+msgid "Did not understand trailing characters \"%s\" in string \"%s\""
+msgstr "Skildi ekki stafina „%s“ í enda stengsins „%s“"
+
+#: ../src/ui/theme-parser.c:615
+#, c-format
+msgid "Integer %ld must be positive"
+msgstr "Heiltalan %ld verður að vera jákvæð"
+
+#: ../src/ui/theme-parser.c:623
+#, c-format
+msgid "Integer %ld is too large, current max is %d"
+msgstr "Heiltalan %ld er of stór. Núverandi hámark er %d"
+
+#: ../src/ui/theme-parser.c:651 ../src/ui/theme-parser.c:767
+#, c-format
+msgid "Could not parse \"%s\" as a floating point number"
+msgstr "Ekki tókst að greina \"%s\" sem floating point tölu"
+
+#: ../src/ui/theme-parser.c:682 ../src/ui/theme-parser.c:710
+#, c-format
+msgid "Boolean values must be \"true\" or \"false\" not \"%s\""
+msgstr "Boolegildi verður annaðhvort að vera „satt‟ eða „ósatt‟ ekki „%s‟"
+
+#: ../src/ui/theme-parser.c:737
+#, c-format
+msgid "Angle must be between 0.0 and 360.0, was %g\n"
+msgstr "Horn verður að vera milli 0.0 og 360.0, war %g\n"
+
+#: ../src/ui/theme-parser.c:800
+#, c-format
+msgid "Alpha must be between 0.0 (invisible) and 1.0 (fully opaque), was %g\n"
+msgstr ""
+"Alfa verður að vera á milli 0.0 (ósýnilegt) og 1.0 (algjörlega ógagnsætt), "
+"var %g\n"
+
+#: ../src/ui/theme-parser.c:865
+#, c-format
+msgid ""
+"Invalid title scale \"%s\" (must be one of xx-small,x-small,small,medium,"
+"large,x-large,xx-large)\n"
+msgstr ""
+"Ógildur titilskali „%s‟ (verður að vera eitt af mm-lítið, m-lítið, lítið, "
+"meðal, stór, m-stórt, mm-stórt)\n"
+
+#: ../src/ui/theme-parser.c:1021 ../src/ui/theme-parser.c:1084
+#: ../src/ui/theme-parser.c:1118 ../src/ui/theme-parser.c:1221
+#, c-format
+msgid "<%s> name \"%s\" used a second time"
+msgstr "<%s> nafnið „%s‟ notað í annað sinn"
+
+#: ../src/ui/theme-parser.c:1033 ../src/ui/theme-parser.c:1130
+#: ../src/ui/theme-parser.c:1233
+#, c-format
+msgid "<%s> parent \"%s\" has not been defined"
+msgstr "<%s> foreldrið „%s‟ hefur ekki verið skilgreint"
+
+#: ../src/ui/theme-parser.c:1143
+#, c-format
+msgid "<%s> geometry \"%s\" has not been defined"
+msgstr "<%s> rúmfræðin „%s‟ hefur ekki verið skilgreind"
+
+#: ../src/ui/theme-parser.c:1156
+#, c-format
+msgid "<%s> must specify either a geometry or a parent that has a geometry"
+msgstr ""
+"<%s> verður skilgreina annaðhvort rúmfræði eða foreldri sem hefur rúmfræði"
+
+#: ../src/ui/theme-parser.c:1198
+msgid "You must specify a background for an alpha value to be meaningful"
+msgstr ""
+"Þú verður að skilgreina bakgrunn svo að alpha gildið hafi einhver áhrif"
+
+#: ../src/ui/theme-parser.c:1266
+#, c-format
+msgid "Unknown type \"%s\" on <%s> element"
+msgstr "Óþekkt gerð „%s‟ á <%s> stakið"
+
+#: ../src/ui/theme-parser.c:1277
+#, c-format
+msgid "Unknown style_set \"%s\" on <%s> element"
+msgstr "Óþekkt stíl_mengi „%s‟ á <%s> stakinu"
+
+#: ../src/ui/theme-parser.c:1285
+#, c-format
+msgid "Window type \"%s\" has already been assigned a style set"
+msgstr "Gluggagerðin „%s‟ hefur þegar verið tengt stílmengi"
+
+#: ../src/ui/theme-parser.c:1315 ../src/ui/theme-parser.c:1379
+#: ../src/ui/theme-parser.c:1607 ../src/ui/theme-parser.c:2842
+#: ../src/ui/theme-parser.c:2888 ../src/ui/theme-parser.c:3038
+#: ../src/ui/theme-parser.c:3274 ../src/ui/theme-parser.c:3312
+#: ../src/ui/theme-parser.c:3350 ../src/ui/theme-parser.c:3388
+#, c-format
+msgid "Element <%s> is not allowed below <%s>"
+msgstr "Stakið <%s> er ekki leyft fyrir neðan <%s>"
+
+#: ../src/ui/theme-parser.c:1429 ../src/ui/theme-parser.c:1443
+#: ../src/ui/theme-parser.c:1488
+msgid ""
+"Cannot specify both \"button_width\"/\"button_height\" and \"aspect_ratio\" "
+"for buttons"
+msgstr ""
+
+#: ../src/ui/theme-parser.c:1452
+#, c-format
+msgid "Distance \"%s\" is unknown"
+msgstr "Fjarlægð \"%s\" er óþekkt"
+
+#: ../src/ui/theme-parser.c:1497
+#, c-format
+msgid "Aspect ratio \"%s\" is unknown"
+msgstr "Stærðarhlutföll \"%s\" eru óþekkt"
+
+#: ../src/ui/theme-parser.c:1561
+#, c-format
+msgid "Border \"%s\" is unknown"
+msgstr "Jaðar „%s‟ er óþekktur"
+
+#: ../src/ui/theme-parser.c:1872
+#, c-format
+msgid "No \"start_angle\" or \"from\" attribute on element <%s>"
+msgstr "Enginn \"start_angle\" eða \"from\" eiginleiki í efnisþættinum <%s>"
+
+#: ../src/ui/theme-parser.c:1879
+#, c-format
+msgid "No \"extent_angle\" or \"to\" attribute on element <%s>"
+msgstr "Enginn \"extent_angle\" eða \"to\" eiginleiki í efnisþættinum <%s>"
+
+#: ../src/ui/theme-parser.c:2119
+#, c-format
+msgid "Did not understand value \"%s\" for type of gradient"
+msgstr "Skildi ekki gildið „%s‟ fyrir gerð stiguls"
+
+#: ../src/ui/theme-parser.c:2197 ../src/ui/theme-parser.c:2572
+#, c-format
+msgid "Did not understand fill type \"%s\" for <%s> element"
+msgstr "Skildi ekki fyllingargerð „%s‟ fyrir <%s> stak"
+
+#: ../src/ui/theme-parser.c:2364 ../src/ui/theme-parser.c:2447
+#: ../src/ui/theme-parser.c:2510
+#, c-format
+msgid "Did not understand state \"%s\" for <%s> element"
+msgstr "Skildi ekki stöðu „%s‟ fyrir< <%s> stakið"
+
+#: ../src/ui/theme-parser.c:2374 ../src/ui/theme-parser.c:2457
+#, c-format
+msgid "Did not understand shadow \"%s\" for <%s> element"
+msgstr "Skildi ekki skyggingu „%s‟ fyrir< <%s> stakið"
+
+#: ../src/ui/theme-parser.c:2384
+#, c-format
+msgid "Did not understand arrow \"%s\" for <%s> element"
+msgstr "Skildi ekki ör „%s‟ fyrir< <%s> stakið"
+
+#: ../src/ui/theme-parser.c:2698 ../src/ui/theme-parser.c:2794
+#, c-format
+msgid "No <draw_ops> called \"%s\" has been defined"
+msgstr "Engin <draw_ops> kölluð „%s‟ hefur verið skilgreind"
+
+#: ../src/ui/theme-parser.c:2710 ../src/ui/theme-parser.c:2806
+#, c-format
+msgid "Including draw_ops \"%s\" here would create a circular reference"
+msgstr "Verði <draw_ops> „%s‟ tekið með hér verður til hringtilvísun"
+
+#: ../src/ui/theme-parser.c:2921
+#, c-format
+msgid "Unknown position \"%s\" for frame piece"
+msgstr "Óþekkt staðsetning „%s‟ fyrir rammahluta"
+
+#: ../src/ui/theme-parser.c:2929
+#, c-format
+msgid "Frame style already has a piece at position %s"
+msgstr "Rammastíll hefur þegar hluta á staðsetningu %s"
+
+#: ../src/ui/theme-parser.c:2946 ../src/ui/theme-parser.c:3023
+#, c-format
+msgid "No <draw_ops> with the name \"%s\" has been defined"
+msgstr "Ekkert <draw_ops> með nafnið „%s‟ hefur verið skilgreint"
+
+#: ../src/ui/theme-parser.c:2976
+#, c-format
+msgid "Unknown function \"%s\" for button"
+msgstr "Óþekkt fall \"%s\" fyrir hnapp"
+
+#: ../src/ui/theme-parser.c:2986
+#, c-format
+msgid "Button function \"%s\" does not exist in this version (%d, need %d)"
+msgstr ""
+"Takkaaðgerðin „%s“ er ekki til í þessari útgáfu (%d, þarf á %d að halda)"
+
+#: ../src/ui/theme-parser.c:2998
+#, c-format
+msgid "Unknown state \"%s\" for button"
+msgstr "Óþekkt staða \"%s\" fyrir hnapp"
+
+#: ../src/ui/theme-parser.c:3006
+#, c-format
+msgid "Frame style already has a button for function %s state %s"
+msgstr "Rammastíll hefur þegar hnapp fyrir aðgerð %s stöðu %s"
+
+#: ../src/ui/theme-parser.c:3077
+#, c-format
+msgid "\"%s\" is not a valid value for focus attribute"
+msgstr "„%s‟ er ekki tækt gildi fyrir miðpunktseigind"
+
+#: ../src/ui/theme-parser.c:3086
+#, c-format
+msgid "\"%s\" is not a valid value for state attribute"
+msgstr "„%s‟ er ekki tækt gildi fyrir stöðueigind"
+
+#: ../src/ui/theme-parser.c:3096
+#, c-format
+msgid "A style called \"%s\" has not been defined"
+msgstr "Stíll kallaður „%s‟ hefur ekki verið skilgreindur"
+
+#: ../src/ui/theme-parser.c:3117 ../src/ui/theme-parser.c:3140
+#, c-format
+msgid "\"%s\" is not a valid value for resize attribute"
+msgstr "%s‟ er ekki tækt gildi fyrir stærðarbrytingareigind"
+
+#: ../src/ui/theme-parser.c:3151
+#, c-format
+msgid ""
+"Should not have \"resize\" attribute on <%s> element for maximized/shaded "
+"states"
+msgstr ""
+"Það ættu ekki að vera „stærðarbreytingar‟ eigind á <%s> stak fyrir "
+"fullvíkkað/skyggt stöður"
+
+#: ../src/ui/theme-parser.c:3165
+#, c-format
+msgid ""
+"Should not have \"resize\" attribute on <%s> element for maximized states"
+msgstr ""
+"Ætti ekki að hafa eiginleikann að „breyta um stærð“ í <%s> efnisþættinum "
+"þegar það er fullstækkað"
+
+#: ../src/ui/theme-parser.c:3179 ../src/ui/theme-parser.c:3223
+#, c-format
+msgid "Style has already been specified for state %s resize %s focus %s"
+msgstr ""
+"Stíll hefur þegar verið skilgreindur fyrir stöðu %s stærðarbreytingu %s "
+"miðpunkt %s"
+
+#: ../src/ui/theme-parser.c:3190 ../src/ui/theme-parser.c:3201
+#: ../src/ui/theme-parser.c:3212 ../src/ui/theme-parser.c:3234
+#: ../src/ui/theme-parser.c:3245 ../src/ui/theme-parser.c:3256
+#, c-format
+msgid "Style has already been specified for state %s focus %s"
+msgstr "Stíll hefur þegar verið skilgreindur fyrir stöðu %s miðpunkt %s"
+
+#: ../src/ui/theme-parser.c:3295
+msgid ""
+"Can't have a two draw_ops for a <piece> element (theme specified a draw_ops "
+"attribute and also a <draw_ops> element, or specified two elements)"
+msgstr ""
+"Get ekki haft tvö draw_ops fyrir <piece> stak (þema skilgreindi draw_ops "
+"eigind og líka <draw_ops> stak eða skilgreindi tvö stök)"
+
+#: ../src/ui/theme-parser.c:3333
+msgid ""
+"Can't have a two draw_ops for a <button> element (theme specified a draw_ops "
+"attribute and also a <draw_ops> element, or specified two elements)"
+msgstr ""
+"Get ekki haft tvö draw_ops fyrir <button> stak (þema skilgreindi draw_ops "
+"eigind og líka <draw_ops> stak eða skilgreindi tvö stök)"
+
+#: ../src/ui/theme-parser.c:3371
+msgid ""
+"Can't have a two draw_ops for a <menu_icon> element (theme specified a "
+"draw_ops attribute and also a <draw_ops> element, or specified two elements)"
+msgstr ""
+"Get ekki haft tvö draw_ops fyrir <menu_icon> stak (þema skilgreindi draw_ops "
+"eigind og líka <draw_ops> stak eða skilgreindi tvö stök)"
+
+#: ../src/ui/theme-parser.c:3435
+#, c-format
+msgid "Bad version specification '%s'"
+msgstr ""
+
+#: ../src/ui/theme-parser.c:3506
+msgid ""
+"\"version\" attribute cannot be used in metacity-theme-1.xml or metacity-"
+"theme-2.xml"
+msgstr ""
+
+#: ../src/ui/theme-parser.c:3529
+#, c-format
+msgid "Theme requires version %s but latest supported theme version is %d.%d"
+msgstr ""
+
+#: ../src/ui/theme-parser.c:3561
+#, c-format
+msgid "Outermost element in theme must be <metacity_theme> not <%s>"
+msgstr "Ysta stak í þema verður að vera <metacity_theme> ekki <%s>"
+
+#: ../src/ui/theme-parser.c:3581
+#, c-format
+msgid ""
+"Element <%s> is not allowed inside a name/author/date/description element"
+msgstr "Stak <%s> er ekki leyft inni í nafns/höfundar/dags/lýsingar staki"
+
+#: ../src/ui/theme-parser.c:3586
+#, c-format
+msgid "Element <%s> is not allowed inside a <constant> element"
+msgstr "Stak <%s> er ekki leyft inni í <constant> staki"
+
+#: ../src/ui/theme-parser.c:3598
+#, c-format
+msgid ""
+"Element <%s> is not allowed inside a distance/border/aspect_ratio element"
+msgstr "Stak <%s> er ekki leyft inni í fjarlægðar/jaðars/sniðhlutfalls staki"
+
+#: ../src/ui/theme-parser.c:3620
+#, c-format
+msgid "Element <%s> is not allowed inside a draw operation element"
+msgstr "Stak <%s> er ekki leyft inni í teikniaðgerðar staki"
+
+#: ../src/ui/theme-parser.c:3630 ../src/ui/theme-parser.c:3660
+#: ../src/ui/theme-parser.c:3665 ../src/ui/theme-parser.c:3670
+#, c-format
+msgid "Element <%s> is not allowed inside a <%s> element"
+msgstr "Stakinu <%s> er ekki leyft inni í <%s> staki"
+
+#: ../src/ui/theme-parser.c:3898
+msgid "No draw_ops provided for frame piece"
+msgstr "Ekkert draw_ops gefið fyrir rammahluta"
+
+#: ../src/ui/theme-parser.c:3913
+msgid "No draw_ops provided for button"
+msgstr "Ekkert draw_ops gefið fyrir hnapp"
+
+#: ../src/ui/theme-parser.c:3967
+#, c-format
+msgid "No text is allowed inside element <%s>"
+msgstr "Enginn texti leyfður inni í staki <%s>"
+
+#: ../src/ui/theme-parser.c:4025 ../src/ui/theme-parser.c:4037
+#: ../src/ui/theme-parser.c:4049 ../src/ui/theme-parser.c:4061
+#: ../src/ui/theme-parser.c:4073
+#, c-format
+#| msgid "<name> specified twice for this theme"
+msgid "<%s> specified twice for this theme"
+msgstr "<%s> uppgefið í tvígang fyrir þetta þema"
+
+#: ../src/ui/theme-parser.c:4333
+#, c-format
+#| msgid "Failed to fdopen() log file %s: %s\n"
+msgid "Failed to find a valid file for theme %s\n"
+msgstr "Ekki gekk að finna skráarheiti fyrir þemað %s\n"
+
+#: ../src/ui/theme-viewer.c:255
+msgid "OK"
+msgstr "Í lagi"
+
+#: ../src/ui/theme-viewer.c:265
+msgid "This is a sample message in a sample dialog"
+msgstr "Þetta er sýniskilaboð í sýnisvarglugga"
+
+#: ../src/ui/theme-viewer.c:343
+#, c-format
+msgid "Fake menu item %d\n"
+msgstr "Þetta er gervivalmyndaratriði %d\n"
+
+#: ../src/ui/theme-viewer.c:399
+msgid "Border-only window"
+msgstr "Gluggi aðeins með jaðar"
+
+#: ../src/ui/theme-viewer.c:401
+msgid "Bar"
+msgstr "Stika"
+
+#: ../src/ui/theme-viewer.c:418
+msgid "Normal Application Window"
+msgstr "Venjulegur forritsgluggi"
+
+#: ../src/ui/theme-viewer.c:422
+msgid "Dialog Box"
+msgstr "Samskiptagluggi"
+
+#: ../src/ui/theme-viewer.c:426
+msgid "Modal Dialog Box"
+msgstr "Kvaðningarsvargluggi"
+
+#: ../src/ui/theme-viewer.c:430
+msgid "Utility Palette"
+msgstr "Hjálparforritaspjald"
+
+#: ../src/ui/theme-viewer.c:434
+msgid "Torn-off Menu"
+msgstr "Afrifin valmynd"
+
+#: ../src/ui/theme-viewer.c:438
+msgid "Border"
+msgstr "Jaðar"
+
+#: ../src/ui/theme-viewer.c:442
+msgid "Attached Modal Dialog"
+msgstr "Tengdur kvaðningarsvargluggi"
+
+#: ../src/ui/theme-viewer.c:802
+#, c-format
+msgid "Button layout test %d"
+msgstr "Prófun á skipan hnappa %d"
+
+#: ../src/ui/theme-viewer.c:827
+#, c-format
+msgid "%g milliseconds to draw one window frame"
+msgstr "%g millisekúndur að teikna einn gluggaramma"
+
+#: ../src/ui/theme-viewer.c:872
+#, c-format
+msgid "Usage: metacity-theme-viewer [THEMENAME]\n"
+msgstr "Notkun: metacity-theme-viewer [ÞEMANAFN]\n"
+
+#: ../src/ui/theme-viewer.c:879
+#, c-format
+msgid "Error loading theme: %s\n"
+msgstr "Ekki tókst að hlaða inn þema: %s\n"
+
+#: ../src/ui/theme-viewer.c:885
+#, c-format
+msgid "Loaded theme \"%s\" in %g seconds\n"
+msgstr "Hlóð þema „%s‟ á %g sekúndum\n"
+
+#: ../src/ui/theme-viewer.c:931
+msgid "Normal Title Font"
+msgstr "Venjulegt titilletur"
+
+#: ../src/ui/theme-viewer.c:937
+msgid "Small Title Font"
+msgstr "Smátt titilletur"
+
+#: ../src/ui/theme-viewer.c:943
+msgid "Large Title Font"
+msgstr "Stórt titilletur"
+
+#: ../src/ui/theme-viewer.c:948
+msgid "Button Layouts"
+msgstr "Framsetning hnappa"
+
+#: ../src/ui/theme-viewer.c:953
+msgid "Benchmark"
+msgstr "Afkastaprófun"
+
+#: ../src/ui/theme-viewer.c:1010
+msgid "Window Title Goes Here"
+msgstr "Glugga titill kemur hér"
+
+#: ../src/ui/theme-viewer.c:1116
+#, c-format
+msgid ""
+"Drew %d frames in %g client-side seconds (%g milliseconds per frame) and %g "
+"seconds wall clock time including X server resources (%g milliseconds per "
+"frame)\n"
+msgstr ""
+"Teiknaði %d ramma á %g notandasekúndum (%g millisekúndur á ramma) og %g "
+"sekúndum rauntíma X-þjóns tilföng innifalin (%g millisekúndur á ramma)\n"
+
+#: ../src/ui/theme-viewer.c:1336
+msgid "position expression test returned TRUE but set error"
+msgstr "stöðusegðarpróf skilaði SATT en setti villu"
+
+#: ../src/ui/theme-viewer.c:1338
+msgid "position expression test returned FALSE but didn't set error"
+msgstr "stöðusegðarpróf skilaði ÓSATT en setti ekki villu"
+
+#: ../src/ui/theme-viewer.c:1342
+msgid "Error was expected but none given"
+msgstr "Búist var við villu en hún kom ekki"
+
+#: ../src/ui/theme-viewer.c:1344
+#, c-format
+msgid "Error %d was expected but %d given"
+msgstr "Búist var við villu %d en %d kom"
+
+#: ../src/ui/theme-viewer.c:1350
+#, c-format
+msgid "Error not expected but one was returned: %s"
+msgstr "Ekki var búist við villu en það kom villan: %s"
+
+#: ../src/ui/theme-viewer.c:1354
+#, c-format
+msgid "x value was %d, %d was expected"
+msgstr "x gildi var %d, en búist var við %d"
+
+#: ../src/ui/theme-viewer.c:1357
+#, c-format
+msgid "y value was %d, %d was expected"
+msgstr "y gildi var %d, en búist var við %d"
+
+#: ../src/ui/theme-viewer.c:1422
+#, c-format
+msgid "%d coordinate expressions parsed in %g seconds (%g seconds average)\n"
+msgstr "%d hnitasegðin var þáttuð á %g sekúndum (%g sekúndur að meðaltali)\n"
+
+#~| msgid "top"
+#~ msgid "Desktop"
+#~ msgstr "Skjáborð"
+
+#~ msgid "Fatal IO error %d (%s) on display '%s'.\n"
+#~ msgstr "Banvæn IO villa %d (%s) á skjá '%s'.\n"
+
+#, fuzzy
+#~| msgid ""
+#~| "There was an error running \"%s\":\n"
+#~| "%s."
+#~ msgid ""
+#~ "There was an error running <tt>%s</tt>:\n"
+#~ "\n"
+#~ "%s"
+#~ msgstr ""
+#~ "Villa átti sér stað við keyrslu \"%s\":\n"
+#~ "%s."
+
+#~ msgid "No command %d has been defined.\n"
+#~ msgstr "Engin skipun %d hefur verið skilgreind.\n"
+
+#, fuzzy
+#~ msgid "No terminal command has been defined.\n"
+#~ msgstr "Engin skipun %d hefur verið skilgreind.\n"
+
+#~ msgid "Switch to workspace 5"
+#~ msgstr "Skipta yfir á vinnusvæði 5"
+
+#~ msgid "Switch to workspace 6"
+#~ msgstr "Skipta yfir á vinnusvæði 6"
+
+#~ msgid "Switch to workspace 7"
+#~ msgstr "Skipta yfir á vinnusvæði 7"
+
+#~ msgid "Switch to workspace 8"
+#~ msgstr "Skipta yfir á vinnusvæði 8"
+
+#~ msgid "Switch to workspace 9"
+#~ msgstr "Skipta yfir á vinnusvæði 9"
+
+#~ msgid "Switch to workspace 10"
+#~ msgstr "Skipta yfir á vinnusvæði 10"
+
+#~ msgid "Switch to workspace 11"
+#~ msgstr "Skipta yfir á vinnusvæði 11"
+
+#~ msgid "Switch to workspace 12"
+#~ msgstr "Skipta yfir á vinnusvæði 12"
+
+#, fuzzy
+#~| msgid "Switch to workspace on the left"
+#~ msgid "Switch to workspace on the left of the current workspace"
+#~ msgstr "Skipta yfir á vinnusvæði á vinstri hönd"
+
+#, fuzzy
+#~| msgid "Switch to workspace on the right"
+#~ msgid "Switch to workspace on the right of the current workspace"
+#~ msgstr "Skipta yfir á vinnusvæði á hægri hönd"
+
+#, fuzzy
+#~| msgid "Switch to workspace above this one"
+#~ msgid "Switch to workspace above the current workspace"
+#~ msgstr "Skipta yfir á vinnusvæði fyrir ofan þetta"
+
+#, fuzzy
+#~| msgid "Switch to workspace below this one"
+#~ msgid "Switch to workspace below the current workspace"
+#~ msgstr "Skipta yfir á vinnusvæði fyrir neðan þetta"
+
+#~| msgid "Move between windows immediately"
+#~ msgid "Move between windows, using a popup window"
+#~ msgstr "Flytja á milli glugga, með sprettglugga"
+
+#, fuzzy
+#~| msgid "Move between windows immediately"
+#~ msgid "Move backward between windows of an application immediately"
+#~ msgstr "Flytja á milli glugga án seinkunar"
+
+#~ msgid "Move between windows immediately"
+#~ msgstr "Flytja á milli glugga án seinkunar"
+
+#, fuzzy
+#~| msgid "Move between windows immediately"
+#~ msgid "Move backward between windows immediately"
+#~ msgstr "Flytja á milli glugga án seinkunar"
+
+#~ msgid "Take a screenshot"
+#~ msgstr "Taka skjámynd"
+
+#~ msgid "Take a screenshot of a window"
+#~ msgstr "Taka skjámynd af glugga"
+
+#~ msgid "Run a terminal"
+#~ msgstr "Keyra skjáhermi"
+
+#, fuzzy
+#~| msgid "Lower window below other windows"
+#~ msgid "Toggle whether a window will always be visible over other windows"
+#~ msgstr "Lækka glugga niður fyrir aðra glugga"
+
+#~ msgid "Move window to workspace 5"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 5"
+
+#~ msgid "Move window to workspace 6"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 6"
+
+#~ msgid "Move window to workspace 7"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 7"
+
+#~ msgid "Move window to workspace 8"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 8"
+
+#~ msgid "Move window to workspace 9"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 9"
+
+#~ msgid "Move window to workspace 10"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 10"
+
+#~ msgid "Move window to workspace 11"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 11"
+
+#~ msgid "Move window to workspace 12"
+#~ msgstr "Flytja glugga yfir á vinnusvæði 12"
+
+#, fuzzy
+#~| msgid "Move window one workspace to the left"
+#~ msgid "Move window to north-west (top left) corner"
+#~ msgstr "Flytja glugga til vinstri um eitt vinnusvæði"
+
+#, fuzzy
+#~| msgid "Move window one workspace to the right"
+#~ msgid "Move window to north-east (top right) corner"
+#~ msgstr "Flytja glugga til hægri um eitt vinnusvæði"
+
+#, fuzzy
+#~| msgid "Move window one workspace down"
+#~ msgid "Move window to center of screen"
+#~ msgstr "Flytja glugga niður um eitt vinnusvæði"
+
+#~ msgid ""
+#~ "(Not implemented) Navigation works in terms of applications not windows"
+#~ msgstr ""
+#~ "(Ekki ennþá innfært) Vöfrun virkar innan einungis í samhengi við forrit "
+#~ "en ekki glugga"
+
+#~ msgid "Action on title bar double-click"
+#~ msgstr "Aðgerð við tvíklikk á titilrönd"
+
+#, fuzzy
+#~| msgid "Action on title bar double-click"
+#~ msgid "Action on title bar middle-click"
+#~ msgstr "Aðgerð við tvíklikk á titilrönd"
+
+#, fuzzy
+#~| msgid "Action on title bar double-click"
+#~ msgid "Action on title bar right-click"
+#~ msgstr "Aðgerð við tvíklikk á titilrönd"
+
+#~ msgid "Arrangement of buttons on the titlebar"
+#~ msgstr "Staðsetning takka á tiltilrönd"
+
+#~ msgid "Delay in milliseconds for the auto raise option"
+#~ msgstr "Seinkun í millisekúndum fyrir sjálfvirka hækkun valmöguleikan"
+
+#~ msgid ""
+#~ "Determines whether applications or the system can generate audible "
+#~ "'beeps'; may be used in conjunction with 'visual bell' to allow silent "
+#~ "'beeps'."
+#~ msgstr ""
+#~ "Ákvarðar hvort forrit eða kerfið geti búið til heyranlegt 'bíbb'. Er hægt "
+#~ "að nýta í samhengi með 'sýnilegri bjöllu' þegar leyfa á hljóðlaus 'bíbb'"
+
+#~ msgid "Enable Visual Bell"
+#~ msgstr "Virkja sýnilega bjöllu"
+
+#~ msgid "Name of workspace"
+#~ msgstr "Nafn vinnusvæðis"
+
+#~ msgid "Number of workspaces"
+#~ msgstr "Fjöldi vinnusvæða"
+
+#, fuzzy
+#~| msgid ""
+#~| "Number of workspaces. Must be more than zero, and has a fixed maximum "
+#~| "(to prevent accidentally destroying your desktop by asking for 34 "
+#~| "million workspaces)."
+#~ msgid ""
+#~ "Number of workspaces. Must be more than zero, and has a fixed maximum to "
+#~ "prevent making the desktop unusable by accidentally asking for too many "
+#~ "workspaces."
+#~ msgstr ""
+#~ "Fjöldi vinnsvæða. Verðu að vera fleiri en núll, og með fast hámark ( til "
+#~ "að koma í veg fyrir að rústa skjáborðinu með beiðni um 34 milljónir "
+#~ "vinnusvæða)."
+
+#~ msgid "Run a defined command"
+#~ msgstr "Keyra tiltekna skipun"
+
+#~ msgid "System Bell is Audible"
+#~ msgstr "Kerfisbjalla er heyranleg"
+
+#~ msgid "The name of a workspace."
+#~ msgstr "Nafn vinnusvæði."
+
+#~ msgid "Visual Bell Type"
+#~ msgstr "Gerð sýnilegrar bjöllu"
+
+#~ msgid "Window focus mode"
+#~ msgstr "Fókusgerð glugga"
+
+#~ msgid "Window title font"
+#~ msgstr "Leturgerð gluggatitils"
+
+#~ msgid "Theme file %s did not contain a root <metacity_theme> element"
+#~ msgstr "Þemaskrá %s innihélt ekki <metacity_theme> grunneiningu"
+
+#, fuzzy
+#~ msgid "/Windows/_Top dock"
+#~ msgstr "Gluggi í fókus"
+
+#, fuzzy
+#~ msgid "/Windows/_All docks"
+#~ msgstr "Gluggi í fókus"
+
+#, fuzzy
+#~ msgid "Open another one of these windows"
+#~ msgstr "Hækka glugga upp fyrir aðra glugga"

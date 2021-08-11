@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Project
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns="http://usefulinc.com/ns/doap#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:gnome="http://api.gnome.org/doap-extensions#"
+  xmlns:admin="http://webns.net/mvcb/">
+
+ <name xml:lang="en">Metacity</name>
+
+ <!-- It's a blog.  Metacity has no homepage. -->
+ <homepage rdf:resource="http://blogs.gnome.org/metacity/" />
+
+ <!-- The date when the source control was initialised. -->
+ <created>2001-05-30</created>
+
+ <shortdesc xml:lang="en">Metacity is a simple compositing window manager that integrates nicely with GNOME Flashback.</shortdesc>
+ <description xml:lang="en">
+A window manager for GNOME Flashback, with a focus on simplicity and usability
+rather than novelties or gimmicks. It uses GTK+ 3 for drawing window frames,
+so that it inherits colors, fonts, and so on from the GTK+ theme.  Its author
+has characterized it as a &quot;boring window manager for the adult in you.
+Many window managers are like Marshmallow Froot Loops; Metacity is like Cheerios.&quot;
+ </description>
+
+ <wiki rdf:resource="https://wiki.gnome.org/Projects/Metacity" />
+ <bug-database rdf:resource="https://gitlab.gnome.org/GNOME/metacity/issues/" />
+ <screenshots rdf:resource="http://commons.wikimedia.org/wiki/Image:Metacity-screenshot.png" />
+
+ <mailing-list rdf:resource="http://mail.gnome.org/mailman/listinfo/gnome-flashback-list" />
+
+ <programming-language>C</programming-language>
+ <license rdf:resource="http://usefulinc.com/doap/licenses/gpl" />
+ <download-page rdf:resource="http://download.gnome.org/sources/metacity/" />
+
+ <repository>
+   <GitRepository>
+     <location rdf:resource="https://gitlab.gnome.org/GNOME/metacity" />
+     <browse rdf:resource="https://gitlab.gnome.org/GNOME/metacity.git" />
+   </GitRepository>
+ </repository> 
+
+ <author>
+  <foaf:Person>
+     <foaf:name>Havoc Pennington</foaf:name>
+  </foaf:Person>
+ </author>
+
+ <maintainer>
+  <foaf:Person>
+     <foaf:name>Elijah Newren</foaf:name>
+  </foaf:Person>
+ </maintainer>
+
+ <maintainer>
+  <foaf:Person>
+     <foaf:name>Thomas Thurman</foaf:name>
+     <foaf:mbox rdf:resource="mailto:tthurman@gnome.org"/>
+     <gnome:userid>tthurman</gnome:userid>
+  </foaf:Person>
+ </maintainer>
+
+ <maintainer>
+  <foaf:Person>
+     <foaf:name>Florian Müllner</foaf:name>
+     <foaf:mbox rdf:resource="mailto:fmuellner@gnome.org"/>
+     <gnome:userid>fmuellner</gnome:userid>
+  </foaf:Person>
+ </maintainer>
+
+ <maintainer>
+  <foaf:Person>
+     <foaf:name>Alberts Muktupāvels</foaf:name>
+     <foaf:mbox rdf:resource="mailto:alberts.muktupavels@gmail.com"/>
+     <gnome:userid>muktupavels</gnome:userid>
+  </foaf:Person>
+ </maintainer>
+</Project>
