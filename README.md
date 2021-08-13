@@ -19,3 +19,11 @@ sudo make install
 ```bash
 sudo make uninstall
 ```
+
+## How to use Metacity replace Xfwm4?
+
+```bash
+xfconf-query -c xfce4-session -p /sessions/Failsafe/Client0_Command -n -a -t string -s "metacity"
+rm -rf .cache/sessions
+reboot
+```
