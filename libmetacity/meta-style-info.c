@@ -164,7 +164,8 @@ meta_style_info_constructed (GObject *object)
                           NULL,
                           "window",
                           GTK_STYLE_CLASS_BACKGROUND,
-                          style_info->composited == TRUE ? "ssd" : "solid-csd",
+                          style_info->composited == TRUE ? "csd" : "solid-csd",
+                          "metacity-window",
                           NULL);
 
   style_info->styles[META_STYLE_ELEMENT_DECORATION] =
@@ -360,11 +361,11 @@ meta_style_info_set_composited (MetaStyleInfo *style_info,
       if (composited)
         {
           remove_toplevel_class (style, "solid-csd");
-          add_toplevel_class (style, "ssd");
+          add_toplevel_class (style, "csd");
         }
       else
         {
-          remove_toplevel_class (style, "ssd");
+          remove_toplevel_class (style, "csd");
           add_toplevel_class (style, "solid-csd");
         }
     }
