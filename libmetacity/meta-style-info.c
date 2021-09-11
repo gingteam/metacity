@@ -165,7 +165,7 @@ meta_style_info_constructed (GObject *object)
                           "window",
                           GTK_STYLE_CLASS_BACKGROUND,
                           style_info->composited == TRUE ? "csd" : "solid-csd",
-                          "metacity-window",
+                          "metacity",
                           NULL);
 
   style_info->styles[META_STYLE_ELEMENT_DECORATION] =

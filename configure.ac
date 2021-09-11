@@ -341,6 +341,10 @@ if test x"$ZENITY" = xno; then
   AC_MSG_ERROR([zenity not found in your path - needed for dialogs])
 fi
 
+AC_SEARCH_LIBS([dlsym], [dl], [], [
+  AC_MSG_ERROR([unable to find the dlsym() function])
+])
+
 dnl **************************************************************************
 dnl Check for Vulkan support
 dnl **************************************************************************
